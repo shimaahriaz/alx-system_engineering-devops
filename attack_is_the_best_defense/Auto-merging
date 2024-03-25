@@ -1,0 +1,5 @@
+ONFLICT (add/add): Merge conflict in attack_is_the_best_defense/1-dictionary_attack
+Auto-merging attack_is_the_best_defense/0-sniffing
+CONFLICT (add/add): Merge conflict in attack_is_the_best_defense/0-sniffing
+Automatic merge failed; fix conflicts and then commit the result.
+root@57bdcbdd0f85:/alx-system_engineering-devops/attack_is_the_be
